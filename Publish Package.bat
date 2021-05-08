@@ -14,5 +14,5 @@ git tag %ToolVersion% %ToolName%
 git push origin %ToolName% %ToolVersion%
 git push origin %ToolName%
 
-git subtree push --tags --prefix=%ToolAssetPath% origin %ToolName% %ToolVersion%
+git subtree push --prefix=%ToolAssetPath% origin %ToolName%
 pause
