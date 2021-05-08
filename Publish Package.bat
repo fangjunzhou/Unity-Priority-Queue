@@ -13,7 +13,7 @@ git tag %ToolVersion% %ToolName%
 git checkout main
 git add -A
 git commit -m "%ToolVersion%"
-git tag -a %ToolVersion%
+git tag -a %ToolVersion% -m "%ToolVersion%"
 
 :: 推送到远端
 git push origin %ToolName% %ToolVersion%
