@@ -58,10 +58,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Runtime\PriorityQueue.cs" />
-     <Compile Include="Assets\Runtime\PriorityQueueADT.cs" />
-     <Compile Include="Assets\Runtime\PriorityQueueNode.cs" />
-     <None Include="Assets\Runtime\FinTOKMAK.PriorityQueue.Runtime.asmdef" />
+     <Compile Include="Assets\Package\Runtime\PriorityQueue.cs" />
+     <Compile Include="Assets\Package\Runtime\PriorityQueueADT.cs" />
+     <Compile Include="Assets\Package\Runtime\PriorityQueueNode.cs" />
+     <None Include="Assets\Package\Runtime\FinTOKMAK.PriorityQueue.Runtime.asmdef" />
  <Reference Include="UnityEditor.UI">
  <HintPath>D:/Unity_Project/Priority_Queue/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
