@@ -11,11 +11,16 @@ git subtree split -P %ToolAssetPath% --branch %ToolName%
 git checkout main
 git add -A
 git commit -m "%ToolVersion%"
-git tag -a %ToolVersion% -m "%ToolVersion%"
 
 :: 推送到远端
 git push origin %ToolName% %ToolVersion%
 git push origin %ToolName%
 
 git subtree push --prefix=%ToolAssetPath% origin %ToolName%
+
+git checkout %ToolName%
+git tag -a %ToolVersion% -m "%ToolVersion%"
+
+git push origin %ToolName% %ToolVersion%
+git push origin %ToolName%
 pause
