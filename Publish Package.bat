@@ -10,6 +10,11 @@ git subtree split -P %ToolAssetPath% --branch %ToolName%
 :: 在ToolName分支设置标签ToolVersion节点
 git tag %ToolVersion% %ToolName%
 
+git checkout main
+git add -A
+git commit -m "%ToolVersion%"
+git tag -a %ToolVersion%
+
 :: 推送到远端
 git push origin %ToolName% %ToolVersion%
 git push origin %ToolName%
