@@ -7,8 +7,6 @@ SET ToolAssetPath=Assets/Package
 
 ::此命令会创建一个ToolName的分支，并同步ToolAssetPath下的内容
 git subtree split -P %ToolAssetPath% --branch %ToolName%
-:: 在ToolName分支设置标签ToolVersion节点
-git tag %ToolVersion% %ToolName%
 
 git checkout main
 git add -A
