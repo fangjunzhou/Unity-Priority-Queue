@@ -47,6 +47,12 @@ namespace FinTOKMAK.PriorityQueue
         {
             priorityQueue.ChangePriority(updateString.text, int.Parse(updatePriority.text));
         }
+
+        public void Clear()
+        {
+            priorityQueue.Clear();
+        }
+
         #endregion
     }
 }
