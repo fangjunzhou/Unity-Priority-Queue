@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinTOKMAK.PriorityQueue.Demo", "FinTOKMAK.PriorityQueue.Demo.csproj", "{DC1E28F0-4344-ABED-62F7-F4D81C4A53F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinTOKMAK.PriorityQueue.Runtime", "FinTOKMAK.PriorityQueue.Runtime.csproj", "{485410E9-594E-F09A-8E04-C3EF77C2388A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC1E28F0-4344-ABED-62F7-F4D81C4A53F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC1E28F0-4344-ABED-62F7-F4D81C4A53F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC1E28F0-4344-ABED-62F7-F4D81C4A53F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC1E28F0-4344-ABED-62F7-F4D81C4A53F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{485410E9-594E-F09A-8E04-C3EF77C2388A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{485410E9-594E-F09A-8E04-C3EF77C2388A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{485410E9-594E-F09A-8E04-C3EF77C2388A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{485410E9-594E-F09A-8E04-C3EF77C2388A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
