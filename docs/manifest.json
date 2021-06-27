@@ -1,6 +1,6 @@
 {
   "homepages": [],
-  "source_base_path": "D:/Unity_Project/Priority_Queue/docfx_project",
+  "source_base_path": "D:/Unity Projects/priority-queue/docfx_project",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "api/FinTOKMAK.PriorityQueue.PriorityQueue-1.html",
-          "hash": "vHcnavMSoxBqwQEwTlCpgWUat5dQTWZB1pBCDlr64PA="
+          "hash": "YA1OZbX70rmTUxwLuj4/gPomTuZTejvHcKATkKRdmTk="
         }
       },
       "is_incremental": true,
@@ -21,7 +21,7 @@
       "output": {
         ".html": {
           "relative_path": "api/FinTOKMAK.PriorityQueue.PriorityQueueADT-1.html",
-          "hash": "5vwADoQ+rg7qcqLFkTqTvABkoq0mHWmEkk9p1JIkFWw="
+          "hash": "jyC8xXQ/IxZovVEKcgR7RRBajQXMmW1XzC8eaTn5dcE="
         }
       },
       "is_incremental": true,
@@ -33,7 +33,7 @@
       "output": {
         ".html": {
           "relative_path": "api/FinTOKMAK.PriorityQueue.PriorityQueueNode-1.html",
-          "hash": "5ReM2voqVowX2Tec+ccmeHtAN0Q1D7M19PHzjxHnBaE="
+          "hash": "lzMd55oWP5p9ghbqoXwlv0iXjv7qPML/2Mhb35zrfig="
         }
       },
       "is_incremental": true,
@@ -45,7 +45,7 @@
       "output": {
         ".html": {
           "relative_path": "api/FinTOKMAK.PriorityQueue.html",
-          "hash": "GF4rMiWNBuJymxlfJ7jrDMQOeo0qLzrCQSXSjZ45XL4="
+          "hash": "k4c/xLKIgE2PB8iaDSYDj5tJHGwsYFZO8Jru642Ip30="
         }
       },
       "is_incremental": true,
@@ -57,7 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "wMH67eU4lNQ+jpv81wnd97zZO4/fpThfIktSgkVy8Iw="
+          "hash": "wxoVyBfYVH9StyZuQo6FjyzWPyObG9YHu30TtmVPB4E="
         }
       },
       "is_incremental": true,
@@ -69,7 +69,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "dRm4lIF2i7sLGA52r2vKmFNX9Cfd88K17p8RRx5Z1Mk="
+          "hash": "LPvomov+RrIhriaKlZ67UjhaxUuz4l9S/E61J737EYM="
         }
       },
       "is_incremental": true,
@@ -81,7 +81,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "HOzv5uJyVIISz/PTtGyOv94kvzRDr5hJrkYLBWlPNgc="
+          "hash": "kht+6IGAnW2C0gE1byjxSvKFF0Vga3zWzwwl4fsr79s="
         }
       },
       "is_incremental": true,
