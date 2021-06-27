@@ -21,3 +21,7 @@ Priority Queue可以用于寻路系统，NPC逻辑等模块，是非常基础的
 ```
 "com.fintokmak.priorityqueue": "https://github.com/Fangjun-Zhou/Unity-Priority-Queue.git#upm-priorityqueue"
 ```
+
+# 文档
+
+Unity Priority-Queue的使用文档请看[这里](https://fangjun-zhou.github.io/Unity-Priority-Queue/)
