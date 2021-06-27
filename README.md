@@ -4,10 +4,10 @@
 
 add by git URL:
 
-`http://anw.noip.cn:8010/Fangjun_Zhou/priority-queue.git#upm-priorityqueue`
+`https://github.com/Fangjun-Zhou/Unity-Priority-Queue.git`
 
 or
 
 add with manifest.json
 
-`"com.fintokmak.priorityqueue": "http://anw.noip.cn:8010/Fangjun_Zhou/priority-queue.git#upm-priorityqueue"`
+`"com.fintokmak.priorityqueue": "https://github.com/Fangjun-Zhou/Unity-Priority-Queue.git"`
